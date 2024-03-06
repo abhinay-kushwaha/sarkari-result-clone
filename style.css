@@ -1,0 +1,110 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+header{
+    background-color: brown;
+    margin: 20px 150px 5px 150px;
+}
+h1{
+    font-weight: ;
+}
+#diva{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    height: 30px;
+    color: rgb(191, 221, 247);
+}
+#he{
+    color: white;
+    margin: 0 auto;
+    padding: 15px;
+    text-align: center;
+}
+
+#divi{
+    display: flex;
+}
+img{
+    border-radius: 75px;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+p{
+    text-align: center;
+    font-weight: 800;
+    font-size: larger;
+}
+#p2{
+    color: red;
+}
+
+#move{
+    font-weight: 900;
+    color: blue;
+    margin: 20px 150px 5px 150px;
+}
+.movea{
+    color: blue;
+}
+#tool{
+    background-color: rgb(43, 6, 207);
+  font-weight: bolder;
+    width: fit-content;
+    border-radius: 50px;
+   padding: 5px 50px 5px 50px;
+   color: rgb(234, 236, 228);
+   margin: auto;
+}
+#grid{
+    margin: 50px 150px 20px 150px;
+}
+.grida{
+    height: fit-content;
+    text-align: center;
+    width: 300px;
+    color: white;
+    border: 5px solid white;
+    font-weight: bolder;
+}
+#grida1{
+    background-color: rgb(67, 148, 67);
+   
+}
+#grida2{
+    background-color: rgb(16, 12, 224);
+}
+#grida3{
+    background-color: orange;
+}
+#grida4{
+    background-color: rgb(247, 0, 0);
+}
+#grida5{
+    background-color: rgb(206, 35, 35);
+}
+#grida6{
+    background-color: rgb(51, 158, 51);
+}
+#grida7{
+    background-color: rgb(194, 57, 137);
+}
+#grida8{
+    background-color: rgb(62, 20, 161);
+}
+.last{
+    background-color: rgb(34, 219, 111);
+    border-color: 3px pink;
+    border-radius: 50px;
+    color: black;
+    padding: 10px;
+    width: 400px;
+}
+.lasta{
+    display: flex;
+    justify-content:space-evenly;
+    margin: 50px 150px 20px 150px;
+}
